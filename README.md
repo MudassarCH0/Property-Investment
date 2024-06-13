@@ -4,7 +4,7 @@
 3. Tools
 4. Project
 
-**Project Description**
+**Project Description** < br / >
 Hired as a consultant to help a client analyze vacation rental market in the Manhattan borough of New York City. The client wanted to invest in several properties and needed some guidance on what types of properties they should be targeting. BIA role involved analyzing Airbnb listings to identify useful insights.
 
 **Project Execution Steps**
@@ -14,7 +14,7 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
 4. Conclusion 
 5. Project Report
 
-**Tools & Dataset**
+**Tools & Dataset** < br / >
 Excel & NYC Airbnb Dataset
 
 [For Project Click Here](https://docs.google.com/spreadsheets/d/1Hedu7B8GprzZouwpvAWzs8k3vy-ZtS8T0XIQ2B0tTzQ/edit?gid=679106591#gid=679106591)
