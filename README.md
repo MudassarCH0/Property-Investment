@@ -19,5 +19,5 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
 
 Excel & NYC Airbnb Dataset
 
-**Project**
-[For Project Click Here](https://docs.google.com/spreadsheets/d/1Hedu7B8GprzZouwpvAWzs8k3vy-ZtS8T0XIQ2B0tTzQ/edit?gid=679106591#gid=679106591)
+**Project**<br>
+[Click Here](https://docs.google.com/spreadsheets/d/1Hedu7B8GprzZouwpvAWzs8k3vy-ZtS8T0XIQ2B0tTzQ/edit?gid=679106591#gid=679106591)
