@@ -20,7 +20,7 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
 * NYC Airbnb Data
   | Fields        | Fields        |
   | ------------- | ------------- |
-  | id            | listing_url  |
+  | id  | listing_url  |
   | scrape_id  | last_scraped  |
   | source  | name  |
   | description  | neighborhood  |
@@ -44,9 +44,10 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
 
 * Data Processing: explore data, backup data, clean data, filter data, alter data
 * Key Performance Indicators (KPIs): Occupancy Rate, Property Sizes (Bedrooms), Top 10 Neighborhoods, Weekend Occupancy, Revenue Estimation, and Listing Analysis
-* Visualization: KPI card, Line Chart, Bar Chart, Bar Chart, Pie Chart, Table
-* Process: developed decomposition plan, created visualization mockups, joins, filters, calculated fields, containers, used 500+ rating to set popularity level, order count to select
-  popular items among restaurants, customer satisfaction count for restaurant performance
+* Visualization: Bar Chart, Table
+* Process: calculated listing's attractiveness using review count with minimum night requirement of 7 days or fewer, excluded inactive reviews (no review with 12 month period), added
+  columns to remove trailing spaces with new values, selected top 10 neighborhoods for vacation rentals and popular bedroom size, calculated the occupancy rate (% of nights that are
+  occupied), estimated revenue generators for investment using VLOOKUP and built-in fucntions and calculated columns
 
 \
 ***Results***<br>
