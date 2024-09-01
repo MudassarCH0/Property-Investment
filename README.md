@@ -18,38 +18,25 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
 
 * Tools: MS Excel
 * NYC Airbnb Data
-  * id
-  * listing_url
-  * scrape_id
-  * last_scraped
-  * source
-  * name
-  * description
-  * neighborhood
-  * neighbourhood_group
-  * latitude
-  * longitude
-  * property_type
-  * room_type
-  * bathrooms
-  * bedrooms
-  * beds
-  * amenities
-  * price
-  * minimum_nights
-  * maximum_nights
-  * minimum_minimum_nights
-  * maximum_minimum_nights
-  * minimum_maximum_nights
-  * maximum_maximum_nights
-  * minimum_nights_avg_ntm
-  * maximum_nights_avg_ntm
-  * number_of_reviews
-  * number_of_reviews_ltm
-  * number_of_reviews_l30d
-  * first_review
-  * last_review
-  * reviews_per_month
+  | Fields        | Fields        |
+  | ------------- | ------------- |
+  | id            | listing_url  |
+  | scrape_id  | last_scraped  |
+  | source  | name  |
+  | description  | neighborhood  |
+  | neighbourhood_group  | latitude  |
+  | longitude  | property_type  |
+  | room_type  | beds  |
+  | bedrooms  | bathrooms  |
+  | amenities  | price  |
+  | minimum_nights  | maximum_nights  |
+  | minimum_minimum_nights  | maximum_minimum_nights  |
+  | minimum_maximum_nights  | maximum_maximum_nights  |
+  | minimum_nights_avg_ntm  | maximum_nights_avg_ntm  |
+  | number_of_reviews  | number_of_reviews_ltm  |
+  | number_of_reviews_l30d  | first_review  |
+  | last_review  | reviews_per_month  |
+  | Content Cell  | Content Cell  |
 
 
 \
