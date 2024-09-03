@@ -57,7 +57,7 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
 ***Recomnendation***<br>
 * Neighborhoods around coastline are good for investment reguardless of reviews
 * More reviews means more foot traffic and high revenue
-* Weeked specials can help to generate high revenue 
+* Weeked specials can help to generate high revenue<br><br> 
 
 > [!Note]
 > [Project Link](https://docs.google.com/spreadsheets/d/1Hedu7B8GprzZouwpvAWzs8k3vy-ZtS8T0XIQ2B0tTzQ/edit?gid=679106591#gid=679106591)
