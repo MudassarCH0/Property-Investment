@@ -1,12 +1,12 @@
 
-***Table of Contents***<br>
+***Table of Content***<br>
 
 * Description
-* Tools & Dataset
+* Tools & Data
 * Execution
-* Results
+* Result
 * Recommenation
-* Link  
+* Project Link  
 
 \
 ***Description***<br>
@@ -14,10 +14,11 @@
 Hired as a consultant to help a client analyze vacation rental market in the Manhattan borough of New York City. The client wanted to invest and needed some guidance on what types of properties they should be targeting. BIA role involved analyzing Airbnb listings to identify lucrative insights.     
 
 \
-***Tools & Dataset***<br>
+***Tools & Data***<br>
 
-* Tools: MS Excel
-* NYC Airbnb Data
+* Tools
+  * MS Excel
+* Data
   | Fields        | Fields        | Fields        |
   | ------------- | ------------- | ------------- | 
   | id | listing_url | scrape_id |
@@ -45,7 +46,7 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
   occupied), estimated revenue generators for investment using VLOOKUP and built-in fucntions and calculated columns
 
 \
-***Results***<br>
+***Result***<br>
 
 * Top 10 neighborhoods were at coast line or highly populated area
 * On weekend the rentals were booked at full capacity
