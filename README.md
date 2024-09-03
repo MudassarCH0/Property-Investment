@@ -18,8 +18,8 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
 
 * Tools: MS Excel
 * NYC Airbnb Data
-  | Fields        | Fields        || Fields        |
-  | ------------- | ------------- || ------------- | 
+  | Fields        | Fields        | Fields        |
+  | ------------- | ------------- | ------------- | 
   | id | listing_url | scrape_id |
   | last_scraped |source | name |
   | description | neighborhood | neighbourhood_group |
