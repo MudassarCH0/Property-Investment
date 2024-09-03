@@ -47,16 +47,16 @@ Hired as a consultant to help a client analyze vacation rental market in the Man
 \
 ***Results***<br>
 
-* 50% more veg customers than non-veg customers
-* Most popular restaurants had similar items
-* Highest revenue correlated regions
-* Weekly deals also added to highest revenue
+* Top 10 neighborhoods were at coast line or highly populated area
+* On weekend the rentals were booked at full capacity
+* Highest revenue correlated with population
+* Few neighborhoods with less reviews and high revenue were around coastline 
 
 \
 ***Recomnendation***<br>
-* Increase in weekly deals can lead to more revenue
-* Restaurants is busiest regions can generate more revenue
-* Restaurant should survey service for every order to rank restaurant popularity 
+* Neighborhoods around coastline are good for investment reguardless of reviews
+* More reviews means more foot traffic and high revenue
+* Weeked specials can help to generate high revenue 
 
 > [!Note]
 > [Project Link](https://docs.google.com/spreadsheets/d/1Hedu7B8GprzZouwpvAWzs8k3vy-ZtS8T0XIQ2B0tTzQ/edit?gid=679106591#gid=679106591)
