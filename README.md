@@ -11,7 +11,7 @@
 \
 ***Description***<br>
 
-Hired as a consultant to help a client analyze vacation rental market in the Manhattan borough of New York City. The client wanted to invest and needed some guidance on what types of properties they should be targeting. BIA role involved analyzing Airbnb listings to identify lucrative insights.     
+Hired as a consultant for a Real Estate client to analyze vacation rental market in the Manhattan borough of New York City. The client wanted to invest and needed some guidance on what types of properties they should be targeting. BIA role involved analyzing Airbnb listings to identify lucrative insights.     
 
 \
 ***Tools & Data***<br>
